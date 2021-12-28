@@ -23,7 +23,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "null": "^2.0.0",
-    "redoc": "^2.0.0-rc.18",
+    "redoc": "v2.0.0-rc.59",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
