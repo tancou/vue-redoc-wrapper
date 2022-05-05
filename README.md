@@ -1,11 +1,11 @@
 # vue-redoc-wrapper
 A Vue.js wrapper component for [ReDoc](https://github.com/Redocly/redoc).
 
-[![npm package](https://img.shields.io/npm/v/@hnluu8/vue-redoc-wrapper.svg?style=flat-square)](https://www.npmjs.com/package/@hnluu8/vue-redoc-wrapper)
+[![npm package](https://img.shields.io/npm/v/@tancou/vue-redoc-wrapper.svg?style=flat-square)](https://www.npmjs.com/package/@tancou/vue-redoc-wrapper)
 
 ## Installation
 ```bash
-npm install @hnluu8/vue-redoc-wrapper --save
+npm install @tancou/vue-redoc-wrapper --save
 ```
 
 ## Usage
