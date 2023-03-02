@@ -1,6 +1,6 @@
 {
   "name": "@tancou/vue-redoc-wrapper",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A Vue.js wrapper component for ReDoc",
   "main": "dist/vue-redoc-wrapper.umd.js",
   "unpkg": "dist/vue-redoc-wrapper.umd.min.js",
@@ -11,14 +11,13 @@
     "build": "NODE_OPTIONS=--max_old_space_size=4096 vue-cli-service build --target lib --name vue-redoc-wrapper src/main.js"
   },
   "dependencies": {
-    "core-js": "^3.4.3",
-    "vue": "^2.6.10"
+    "core-js": "^3.29.0",
+    "vue": "^3.2.41"
   },
   "devDependencies": {
-    "@vue/cli-service": "^5.0.4",
+    "@vue/cli-service": "^5.0.8",
     "null": "^2.0.0",
-    "redoc": "2.0.0-rc.67",
-    "vue-template-compiler": "^2.6.10"
+    "redoc": "2.0.0"
   },
   "browserslist": [
     "> 1%",
